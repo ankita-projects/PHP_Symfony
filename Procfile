@@ -1,1 +1,1 @@
-web: php-symfony-ankita public/
+web: heroku-php-apache2 public/

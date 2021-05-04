@@ -13,7 +13,7 @@ class HomeScreenControllerSql extends AbstractController
 {
 
     /**
-     * @Route("/recipes",methods={"GET"}, name="get_all_recipies" )
+     * @Route("/recipessql",methods={"GET"}, name="get_all_recipies" )
      */
     public function recipies(Request $request): Response
     {
